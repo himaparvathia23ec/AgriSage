@@ -1,4 +1,4 @@
-# AgriSage: AI-Enabled Smart Agriculture Monitoring System
+﻿# AgriSage: AI-Enabled Smart Agriculture Monitoring System
 
 AgriSage is an AI-enabled Smart Agriculture Monitoring and Decision-Making System designed to automate and optimize crop management. By integrating sensors, actuators, wireless communication, and voice-assistant technology, AgriSage provides a comprehensive solution for modern farming.
 
